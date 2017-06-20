@@ -1,0 +1,4 @@
+c:\users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\4Pilares\bin\Debug\4Pilares.dll
+c:\users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\4Pilares\bin\Debug\4Pilares.pdb
+c:\users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\4Pilares\obj\Debug\4Pilares.dll
+c:\users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\4Pilares\obj\Debug\4Pilares.pdb

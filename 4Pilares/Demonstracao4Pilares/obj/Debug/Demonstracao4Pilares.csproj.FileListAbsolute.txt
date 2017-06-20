@@ -1,0 +1,8 @@
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\obj\Debug\Demonstracao4Pilares.csprojResolveAssemblyReference.cache
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\bin\Debug\Demonstracao4Pilares.exe.config
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\bin\Debug\Demonstracao4Pilares.exe
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\bin\Debug\Demonstracao4Pilares.pdb
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\bin\Debug\4Pilares.dll
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\bin\Debug\4Pilares.pdb
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\obj\Debug\Demonstracao4Pilares.exe
+c:\Users\thiagofulber\documents\visual studio 2013\Projects\4Pilares\Demonstracao4Pilares\obj\Debug\Demonstracao4Pilares.pdb
