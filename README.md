@@ -1,23 +1,27 @@
 # Os 4 pilares da Programação orientada a objetos
 Buenas, vamos falar um pouco de programação orientada a objetos?
-Precisamos então falar sobre os 4 pilares da programação orientada a objetos, que são
+Precisamos então falar sobre os 4 pilares da programação orientada a objetos, que são:
  - Abstração
  - Encapsulamento
  - Herança
  - Polimorfismo
-Abaixo vou escrever um pouco sobre a teoria de cada um destes pilares e fazer um pequeno exemplo para melhor entendimento.
+ 
+Abaixo vou descrever um pouco sobre meu entendimento sobre a teoria de cada um dos pilares.
 
 <b>Abstração:</b>
-- Abstração para a OO, nada mais é do que você observar comportamentos e estruturas do dia a dia, e transformá-los em uma linguagem computacional. Esse pilar, como o próprio nome diz, visa abstrair algo do mundo real e transforma-lo em um objeto na programação. Esse objeto será composto por uma identidade, propriedades e métodos. Dessa forma fica mais simples trazer para dentro da programação o problema que precisa ser resolvido ou o processo que precisará ser automatizado.
+- Abstração em OO, é a capacidade de absorver caracteristicas e comportamentos do mundo real aonde vivemos e converter esses dados em alguma linguagem de programação para um software ou sistema.
 
 <b>Encapsulamento:</b>
-- O encapsulamento é uma das principais técnicas que define a programação orientada a objetos. Essa pilar visa a proteção de variáveis importantes dentro de uma classe que não podem ser manipuladas diretamente. Para fazermos um paralelo com o que vemos no mundo real, temos o encapsulamento em outros elementos. Por exemplo, quando clicamos no botão ligar da televisão, não sabemos o que está acontecendo internamente. Podemos então dizer que os métodos que ligam a televisão estão encapsulados.
+- é uma definição que deixa mais segurança ao desenvolvimento, pois só demonstra os tipos de ações que temos em um objeto, sem saber como é a sua execução interna nem suas variaveis. Ao ligar um aparelho eletronico, não temos uma noção de como é o circuito controlador do aparelho, mas que entrega o resultado esperado.
   
 <b>Herança:</b>
-- Uma das grandes vantagens da programação orientada a objetos é justamente o reaproveitamento do código fonte, isso só é possível graças a herança. Com ela uma classe pode herdar as propriedades de uma classe mestra como por exemplo, a classe cachorro herda as propriedades da classe mamífero. Essa analogia indica que o cachorro tem características próprias, mas ele é um mamífero e compartilha das mesmas características que um gato, por exemplo, porém cada qual com suas peculiaridades.
+- é um ponto interessante da OO, que nos proporciona reaproveitamento do que já foi desenvolvido em outras partes do código, aonde podemos herdar propriedades. Aonde temos um porco que herda as caracteristicas de um mamifero, só que com suas particularidades.
 	
 <b>Polimorfismo:</b>
-- Outro ponto essencial na programação orientada a objetos é o chamado polimorfismo. Na natureza, vemos animais que são capazes de alterar sua forma conforme a necessidade, e é dessa ideia que vem o polimorfismo na orientação a objetos. Como sabemos, os objetos filhos herdam as características e ações de seus “ancestrais”. Entretanto, em alguns casos, é necessário que as ações para um mesmo método seja diferente. Em outras palavras, o polimorfismo consiste na alteração do funcionamento interno de um método herdado de um objeto pai.
+- é a capacidade de se adequar conforme a necessidade. Temos caracteristicas e atitudes (métodos) que herdamos de um objeto pai, mas por algum motivo, precisamos tomar a mesma atitude, só que com resultados diferentes, sem modificar a atitude do objeto pai. Isso seria sobreescrever uma atitude sem modificar o que herdamos.
 
-Esses quatro pilares são essenciais no entendimento de qualquer linguagem orientada a objetos e de modo geral para orientação a objetos.
-Lembrando que cada linguagem irá implementar esses pilares de uma forma peculiar, mas o essencial é o mesmo.
+Esses quatro pilares são a base para um desenvolvimento de um software orientado a objetos.
+
+Postarei os exemplos em uma solução.
+
+Abraços
